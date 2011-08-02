@@ -1,8 +1,8 @@
 Package: SQN
 Type: Package
 Title: subset quantile normalization
-Version: 1.0.3
-Date: 2011-07-28
+Version: 1.0.4
+Date: 2011-08-02
 Author: Zhijin(Jean) Wu
 Maintainer: Zhijin(Jean) Wu <zhijin_wu@brown.edu>, Martin Aryee <aryee@jhu.edu>
 Depends: R (>= 2.6.0), mclust(>= 3.2), nor1mix(>= 1.0-7)
