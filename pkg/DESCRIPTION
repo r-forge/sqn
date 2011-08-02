@@ -1,11 +1,10 @@
 Package: SQN
 Type: Package
 Title: subset quantile normalization
-Version: 1.0
-Date: 2009-06-11
+Version: 1.0.3
+Date: 2011-07-28
 Author: Zhijin(Jean) Wu
-Maintainer: Zhijin(Jean) Wu  <zhijin_wu@brown.edu>
+Maintainer: Zhijin(Jean) Wu <zhijin_wu@brown.edu>, Martin Aryee <aryee@jhu.edu>
 Depends: R (>= 2.6.0), mclust(>= 3.2), nor1mix(>= 1.0-7)
 Description: normalizes based a subset of negative control probes
-License: LGPL version 2 or newer
-LazyLoad: yes
+License: LGPL (>= 2.0)

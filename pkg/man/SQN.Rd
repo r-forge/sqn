@@ -28,26 +28,27 @@ index of controls. Must be a vector smaller than \code{nrow(y)}
 weight given to the parametric normal mixture model
 }
 }
-\details{
+%\details{
 %%  ~~ If necessary, more details than the description above ~~
-}
+%}
 \value{ A matrix of normalized data
 }
 \references{
-%% ~put references to the literature/web site here ~
+Wu Z and Aryee M. Subset Quantile Normalization using Negative Control Features (2010)
+Journal of Computational Biology, 17(10)
 }
 \author{
 Zhijin Wu
 }
-\note{
+%\note{
 %%  ~~further notes~~
-}
+%}
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
+%\seealso{
 %% ~~objects to See Also as \code{\link{help}}, ~~~
-}
+%}
 \examples{
 require(mclust)
 require(nor1mix)
